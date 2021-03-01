@@ -19,6 +19,7 @@ function printArrayValues(array) {
 
 
 
+
 /** 
  * Given an input Array, loop backwards over the Array and print its values 
  * using console.log().
